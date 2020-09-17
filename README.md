@@ -7,4 +7,4 @@
 1. My interests include photography, music, mild video editing, painting, and most things that include creativity
 1. I love a good challenge & learning new things
 
-I am excited to start this site for my Digital Humanities 100 class. This course is going to provide some challenegs due to the fact I am new to the world of the web. *:)*
+I am excited to start this site for my Digital Humanities 100 class. This course is going to provide some challenges due to the fact I am new to the world of the web. *:)*
