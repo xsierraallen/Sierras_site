@@ -1,4 +1,4 @@
-**Sierra Allen**
+#**Sierra Allen**
 
 *Work Experience*
 McDonald’s Shift Manager (September 2017 – Present)
