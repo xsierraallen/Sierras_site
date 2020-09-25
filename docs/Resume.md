@@ -1,6 +1,7 @@
 # **Sierra Allen**
 
 *Work Experience*
+
 McDonald’s Shift Manager (September 2017 – Present)
 1. Deals with complications and resolves conflicts with customers and crew
 1. Manages a team of 15 or more employees and supervises crew throughout a shift
@@ -8,6 +9,7 @@ McDonald’s Shift Manager (September 2017 – Present)
 1. Able to lead and inspire crew throughout a shift
 
 *Education*
+
 Penn State Behrend (Fall 2020 – Present)
 1. Pursuing a Bachelor’s Degree in Biology
 
