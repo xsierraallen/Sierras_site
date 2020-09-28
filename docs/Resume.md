@@ -8,16 +8,12 @@ _McDonald’s Shift Manager (September 2017 – Present)_
 1. Handles money and paperwork regarding disciplinary action forms and supply transfers
 1. Able to lead and inspire crew throughout a shift
 
-#
-
-**Education**
+# **Education**
 
 _Penn State Behrend (Fall 2020 – Present)_
 1. Pursuing a Bachelor’s Degree in Biology
 
-#
-
-**Skills**
+# **Skills**
 1. Team Leadership
 1. Problem Solving
 1. Analytical Thinking
