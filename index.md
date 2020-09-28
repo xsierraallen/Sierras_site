@@ -4,7 +4,7 @@ Welcome to my GitHub Pages site! *:)*
 
 My name is Sierra Allen and I am 19 years old. I am a first year student at Penn State Behrend. I plan on majoring in Biology, but I wanted to explore the world of Digital Arts and Technology as well.
 
-My interests include photography, music, mild video editing, painting, and most things that include creativity; creativity is my forte. When I am not doing something that takes creativity, I’m usually out snowboarding or skateboarding.
+My interests include photography, music, mild video editing, painting, and most things that include creativity; creativity is my forte. When I am not doing something that takes creativity, I’m usually out snowboarding or skateboarding. 
 
 I am currently employed as a manager at a McDonald’s and I have been there since 2017. However, I don’t plan on spending the rest of my life there. My dream job is to work with marine life on the East Coast of America. I am planning on studying habitats and wildlife and being able to photograph these animals in their natural habitat. I want to make the world a better place for wildlife to thrive in and studying these animals will be my first step.
 
