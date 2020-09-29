@@ -2,5 +2,5 @@
 [<img src="images/Softball2.jpg" alt="Softball2" width="200"/>](details/Softball2.md)
 [<img src="images/Softball3.jpg" alt="Softball3" width="200"/>](details/Softball3.md)
 [<img src="images/Softball4.jpg" alt="Softball4" width="200"/>](details/Softball4.md) 
-[<img src="images/Softball5s.jpg" alt="Softball5" width="200"/>](details/Softball5.md) 
+[<img src="images/Softball5.jpg" alt="Softball5" width="200"/>](details/Softball5.md) 
 [<img src="images/Sunset.jpg" alt="Sunset" width="200"/>](details/Sunset.md)
