@@ -6,6 +6,4 @@ I was able to make a YouTube channel to display my videos so anyone can see my c
 
 As for photography, I have a few pieces I am proud of. This collection will always continue to grow and I am proud that atleast one person other than myself can see my work.
 
-https://github.com/xsierraallen/Sierras_site/raw/gh-pages/images/Softball1.jpg
-
-[Images](Sierras_site/images/)
+[Softball1](Sierras_site/images/Softball1.jpg) [Softball2](Sierras_site/images/Softball2.jpg) [Softball3](Sierras_site/images/Softball3.jpg) [Softball4](Sierras_site/images/Softball4.jpg) [Softball5](Sierras_site/images/Softball5.jpg) [Sunset](Sierras_site/images/Sunset.jpg)
