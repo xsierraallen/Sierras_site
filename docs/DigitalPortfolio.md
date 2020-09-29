@@ -7,3 +7,4 @@ I was able to make a YouTube channel to display my videos so anyone can see my c
 As for photography, I have a few pieces I am proud of. This collection will always continue to grow and I am proud that atleast one person other than myself can see my work.
 
 <img src="images/Softball1.jpg" alt="Softball1.jpg" width="201"/> <img src="images/Softball1.jpg" alt="Softball1.jpg" width="201"/>
+https://github.com/xsierraallen/Sierras_site/raw/gh-pages/images/Softball1.jpg
