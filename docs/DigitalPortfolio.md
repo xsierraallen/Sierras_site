@@ -6,3 +6,4 @@ I was able to make a YouTube channel to display my videos so anyone can see my c
 
 As for photography, I have a few pieces I am proud of. This collection will always continue to grow and I am proud that atleast one person other than myself can see my work.
 
+[Softball1](Softball1.jpg) [Softball2](Softball2.jpg) [Softball3](Softball.jpg) [Softball4](Softball.jpg) [Softball5](Softball5.jpg) [Sunset](Sunset.jpg)
