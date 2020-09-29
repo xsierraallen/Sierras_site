@@ -8,4 +8,4 @@ As for photography, I have a few pieces I am proud of. This collection will alwa
 
 https://github.com/xsierraallen/Sierras_site/raw/gh-pages/images/Softball1.jpg
 
-[Sierras_site/images](images.md)
+[Images](Sierras_site/images/)
